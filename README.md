@@ -11,6 +11,13 @@ A comprehensive dashboard for monitoring and managing OpenAI API usage, costs, a
 - **Manage API Keys**: View, monitor, and revoke API keys from a single interface
 - **Interactive Dashboards**: Explore your data with interactive charts and filters
 
+## 🚀 Live Demo
+
+Check out the live app deployed on Streamlit Community Cloud:  
+👉 [Open Streamlit App](https://openai-guardian.streamlit.app/)
+
+
+
 ## Getting Started
 
 ### Prerequisites
